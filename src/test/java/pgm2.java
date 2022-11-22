@@ -1,6 +1,6 @@
-package practice_pro;
 
-public class pgm1 
+
+public class pgm2 
 {
 	public void main() 
 	{
