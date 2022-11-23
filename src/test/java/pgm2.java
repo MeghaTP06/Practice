@@ -2,9 +2,9 @@
 
 public class pgm2 
 {
-	public void main() 
+	public static void main(String[] args) 
 	{
-		System.out.println("p1");
+		System.out.println("p2");
 		
 	}
 

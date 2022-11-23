@@ -2,7 +2,7 @@
 
 public class pgm1 
 {
-	public void main() 
+	public static void main(String[] args) 
 	{
 		System.out.println("p1");
 		
